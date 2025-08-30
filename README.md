@@ -1,17 +1,28 @@
 <h1 align="center">Hi 👋, I'm Rupashi Maurya</h1>
 <h3 align="center">🎓 MCA Student | Aspiring Data Scientist from India</h3>
 
-- 🌱 I’m currently learning **AI and Deep Learning**
+<table>
+  <tr>
+    <td>
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 🌱 I’m currently learning *AI and Deep Learning*
 
-- 💬 Ask me about **Data Science, EDA, ML**
+- 👯 I’m looking to collaborate on *Machine Learning Projects*
 
-- 📫 How to reach me **rupashimaurya@gmail.com**
+- 💬 Ask me about *Data Science, EDA, ML*
+
+- 📫 How to reach me *rupashimaurya@gmail.com*
 
 - 📄 Know about my experiences [./resume.pdf](./resume.pdf)
 
-- ⚡ Fun fact **I can survive without coffee, but not without WiFi.**
+- ⚡ Fun fact *I can survive without coffee, but not without WiFi.*
+
+</td>
+<td>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="gif">
+</td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
