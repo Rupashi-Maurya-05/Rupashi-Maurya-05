@@ -13,7 +13,7 @@
 
 - 📫 How to reach me *rupashimaurya@gmail.com*
 
-- 📄 Know about my experiences [./resume.pdf](./resume.pdf)
+- 📄 Know about my experiences [./RUPASHI_MAURYA_resume.pdf](./RUPASHI_MAURYA_resume.pdf)
 
 - ⚡ Fun fact *I can survive without coffee, but not without WiFi.*
 
